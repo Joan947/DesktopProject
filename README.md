@@ -1,2 +1,2 @@
 # DesktopProject
-Java School Management System
+Java Desktop Based School Management System with SQLLite.
